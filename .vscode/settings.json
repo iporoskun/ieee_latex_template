@@ -1,0 +1,6 @@
+{
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "plaintext", "latex"],
+  "latex-workshop.latex.outDir": ".out/",
+  "editor.formatOnSave": true
+}
